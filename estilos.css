@@ -1,0 +1,53 @@
+header, section, article, hgroup {
+    display: block;
+}
+body {
+    text-align: center;
+}
+.agrupar {
+    width: 980px;
+    margin: auto;
+    border: 1px solid black ;
+    background: rgb(228, 218, 218);
+    padding: 10px;
+}
+.p {
+    text-align: left;
+}
+.uldoom {
+    list-style: none;
+    text-align: left;
+    padding: 4px;
+}
+.ulkof {
+    list-style: none;
+    text-align: left;
+    padding: 4px;
+}
+.ulminecraft {
+    list-style: none;
+    text-align: left;
+    padding: 4px;
+}
+.ulzelda {
+    list-style: none;
+    text-align: left;
+    padding: 4px;
+}
+.uldeemo {
+    list-style: none;
+    text-align: left;
+    padding: 4px;
+}
+hgroup {
+    background: rgb(216, 184, 224);
+    border: 1px solid rgb(218, 126, 236);
+}
+.Despedida {
+    background: rgb(216, 184, 224);
+    border: 1px solid rgb(70, 14, 82);
+}
+.header {
+    background: rgb(204, 152, 218);
+    border: 1px solid rgb(70, 14, 82);
+}
